@@ -1,6 +1,7 @@
 # Pokedex
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.1.
+Projeto realizado para fins educativos, foi desenvolvido em conjunto com o Dev Paulo Savatore.
+Acesse: https://www.youtube.com/watch?v=jbrD2lzMtVw
 
 ## Development server
 
